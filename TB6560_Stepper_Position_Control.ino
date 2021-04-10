@@ -1,4 +1,8 @@
 // Position Control using TB6560 and stepper Motor
+// Author:  Shail Jadav
+// Contact: https://shailjadav.github.io
+// I believe in sharing, and it's my way to make the world a better place. If this code helps you in any way, consider doing one good thing for the world!
+//Enjoy!
 // Global Variables
 int val=0;
 int val1=0;
